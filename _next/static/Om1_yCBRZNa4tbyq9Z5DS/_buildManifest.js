@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/itz-fizz-scroll-hero//_next/:path+",
+        "destination": "/itz-fizz-scroll-hero/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
