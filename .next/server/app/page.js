@@ -1,0 +1,13 @@
+var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/app/page.js")
+R.c("server/chunks/ssr/itz-fizz-scroll-hero (1)_0fs6xov._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1ixhwp9._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__00ihjpj._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__07jvc_4._.js")
+R.c("server/chunks/ssr/itz-fizz-scroll-hero (1)_app_layout_1-v4_ir.js")
+R.c("server/chunks/ssr/1otj_next_dist_client_components_0vgyyj7._.js")
+R.c("server/chunks/ssr/1otj_next_dist_client_components_builtin_forbidden_0wn3b66.js")
+R.c("server/chunks/ssr/1otj_next_dist_client_components_builtin_unauthorized_1-21i7_.js")
+R.c("server/chunks/ssr/1otj_next_dist_client_components_builtin_global-error_1ummend.js")
+R.c("server/chunks/ssr/itz-fizz-scroll-hero (1)__next-internal_server_app_page_actions_1v_-b31.js")
+R.m(8906)
+module.exports=R.m(8906).exports
